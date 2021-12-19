@@ -1,2 +1,0 @@
-# ASP_TEAMPROJECT
-21학년도 ASP 팀프로젝트
