@@ -18,4 +18,11 @@
 ![Main](/image_md/mainpage.gif)
 
 <br><br>
-## 2차 개발
+## 좋아하는 동물 월드컵 페이지(IDX1)
+* aspx 페이지 형식을 사용하여 제작되었습니다. <br>
+* SQL 서버를 이용하여 유저가 어떤 것을 선택하였는지 기록합니다. <br>
+
+![Sub](/image_md/subpage.gif)
+<br><br>
+
+* 댓글 기능은 xml 및 SQL database를 이용하여 개발 되었습니다.
