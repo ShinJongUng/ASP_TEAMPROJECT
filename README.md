@@ -15,7 +15,7 @@
 * 회원가입 및 로그인 기능은 SQL server 2014로 제작 되었습니다.<br>
 
 
-![Build](/support_md/first_Dev.gif)
+![Main](/image_md/mainpage.gif)
 
 <br><br>
 ## 2차 개발
